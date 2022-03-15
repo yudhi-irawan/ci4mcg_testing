@@ -1,0 +1,15 @@
+2022-02-23
+
+
+D:\laragon\bin\php\php-7.4.19-Win32-vc15-x64\php spark serve --port 8080
+
+
+http://localhost:8080
+
+http://localhost:8080/sex
+http://localhost:8080/edu
+http://localhost:8080/emp
+
+
+
+===========================
