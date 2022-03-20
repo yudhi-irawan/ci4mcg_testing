@@ -31,20 +31,19 @@
     <!-- Main content -->
     <section class="content">
       <div class="container-fluid">
-        <!-- Small boxes (Stat box) -->
-        <div class="row">
-          <!-- <div class="col-lg-3 col-6">-->
-		  <div class="col-12">
+        
+		<!--<div class="row">-->
+		<!--  <div class="col-12">-->
 
 			<?= $this->renderSection('page-content'); ?>
 
-          </div>
-        </div>
-      </div><!-- /.container-fluid -->
+        <!--  </div>-->
+        <!--</div>-->
+		
+      </div>
     </section>
-    <!-- /.content -->
   </div>
-  <!-- /.content-wrapper -->
+
   
   
   <footer class="main-footer">
