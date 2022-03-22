@@ -3,7 +3,7 @@
 1. 	download ci4mcg_testing, then extract
 
 2. 	download mcg-templates-ci4-lt3, then extract at same folder ci4mcg_testing
-	<br>at: https://github.com/yudhi-irawan/mcg-templates-ci4-lt3
+	<br>link download at: https://github.com/yudhi-irawan/mcg-templates-ci4-lt3
 	
 3. 	create mySql database
 	<br>-- database: mcg_db	
