@@ -1,6 +1,6 @@
 <?php
 	// File name   : 012_lt3_sidebar_details.php
-	// Last Edited : 2022-03-15
+	// Last Edited : 2022-03-22
 
 
 	// MCG - Massive CRUD Generator for CI4-AdminLT3-MySQL ver. Mar 2022-Free Version
@@ -23,6 +23,11 @@
 
 ?>
 
+<li class="nav-item">
+	<a href="/home" class="nav-link">
+		<p>DASHBOARD</p>
+	</a>
+</li>
 <li class="nav-item">
 	<a href="#" class="nav-link">
 		<i class="nav-icon far fa-plus-square"></i>
