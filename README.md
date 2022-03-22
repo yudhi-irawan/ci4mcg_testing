@@ -19,4 +19,9 @@
 5. 	in yor browser click: http://localhost:8080
 
 <br><br>
+💞️💞️💞️ <span class="font-weight-bold">Download</span> MCG Application link at:
+<i>	
+<a href="https://t.me/MCGFreeVersion">https://t.me/MCGFreeVersion</a>
+</i>💞️💞️💞️
+<br><br>
 back to home : https://yudhi-irawan.github.io
