@@ -1,9 +1,9 @@
-# ci4mcg_testing
+# mcg-ci4-testing
 
-1. 	download ci4mcg_testing, then extract
+1. 	download mcg-ci4-testing, then extract
 
-2. 	download mcg-templates-ci4-lt3, then extract at same folder ci4mcg_testing
-	<br>link download at: https://github.com/yudhi-irawan/mcg-templates-ci4-lt3
+2. 	download mcg-ci4-lte3-templates, then extract at same folder mcg-ci4-testing
+	<br>link download at: https://github.com/yudhi-irawan/mcg-ci4-lte3-templates
 	
 3. 	create mySql database
 	<br>-- database: mcg_db	
